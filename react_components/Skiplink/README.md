@@ -28,5 +28,11 @@ Uses `SASS` modules but can easily be changed to use a different form of bringin
 	- `yarn add `prop-types`
 
 ### Proptypes
-- to: Optional. This would be the `id` of the container for the main page-content. Defaults to `#scroll-main`.
-- label: Optional. This is the text that appears inside the tag. Defaults to `Jump to main content.`.
+- to:
+	- This would be the `id` of the container for the main page-content.
+	- Optional.
+	- Defaults to `#scroll-main`.
+- label:
+	- This is the text that appears inside the tag.
+	- Optional.
+	- Defaults to `Jump to main content.`.
