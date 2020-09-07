@@ -14,6 +14,12 @@ Example:
 ### Implementation
 Uses `SASS` modules but can easily be changed to use a different form of bringing in the `css`.
 
-- Gatsby:
-	- `yarn add gatsby-plugin-sass`
-	- In the `gatsby-config.js` make sure you include `gatsby-plugin-sass` in the `plugins` array.
+### Dependencies
+	- `yarn add `prop-types`
+
+	- Gatsby:
+		- `yarn add gatsby-plugin-sass`
+		- In the `gatsby-config.js` make sure you include `gatsby-plugin-sass` in the `plugins` array.
+
+### Proptypes
+Does not accept proptypes.
