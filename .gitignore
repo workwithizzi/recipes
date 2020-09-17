@@ -1,6 +1,8 @@
 
 # Created by https://www.gitignore.io/api/node,sass,react,macos,visualstudiocode
 
+# Used for ignoring random reference files
+%%*
 
 ### Node ###
 # Logs
