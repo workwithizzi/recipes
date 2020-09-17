@@ -1,5 +1,5 @@
 
-## `<Skiplink>` Component
+## `<Link>` Component
 
 Can be used on Gatsby projects to replace the use of Gatsby's own `<Link>` component. For "local" links, it will use Gatsby's <Link> and for external links, it will fall back to using a regular `<a>` tag.
 
